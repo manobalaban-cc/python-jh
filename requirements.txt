@@ -1,0 +1,31 @@
+# Full dependency list for the course.
+# In a real project this would live in pyproject.toml (see 00-dev-environment/03).
+
+# --- Data toolkit (module 03) ---
+pandas>=2.2
+numpy>=2.0
+matplotlib>=3.9
+seaborn>=0.13
+openpyxl>=3.1          # Excel support for pandas
+pyarrow>=17.0          # Parquet + faster pandas backends
+
+# --- Networking, APIs (modules 03-04) ---
+requests>=2.32
+httpx>=0.27
+python-dotenv>=1.0
+
+# --- Application development (module 04) ---
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.9
+pydantic-settings>=2.4
+SQLAlchemy>=2.0
+typer>=0.12
+
+# --- Developer tooling (all modules) ---
+pytest>=8.3
+pytest-cov>=5.0
+pytest-asyncio>=0.24
+ruff>=0.6
+mypy>=1.11
+types-requests

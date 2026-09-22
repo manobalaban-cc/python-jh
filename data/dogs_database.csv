@@ -1,0 +1,501 @@
+﻿Name,Breed,Color,Age,Height (cm),Weight (kg),Size
+Chloe,Beagle,Lemon,12,38,9,Medium
+Rocky,Dachshund,Dapple,12,22,11,Small
+Duke,Great Dane,Fawn,8,76,70,Large
+Max,Dachshund,Cream,12,23,8,Small
+Oliver,Chihuahua,Chocolate,18,17,1,Small
+Duke,Beagle,Tricolor,14,39,9,Medium
+Cooper,German Shepherd,Sable,9,64,25,Large
+Charlie,Dachshund,Black and Tan,14,25,11,Small
+Daisy,French Bulldog,Black,10,28,12,Small
+Max,Chihuahua,Red,16,15,1,Small
+Chloe,Poodle (Standard),Brown,10,50,29,Medium
+Duke,German Shepherd,Black,10,57,34,Medium
+Rocky,Great Dane,Blue,7,72,75,Large
+Max,Golden Retriever,Light Golden,10,57,26,Medium
+Sophie,Rottweiler,Black and Mahogany,8,61,39,Large
+Duke,Golden Retriever,Cream,11,56,33,Medium
+Buddy,Poodle (Standard),Brown,13,39,29,Medium
+Molly,Golden Retriever,Cream,11,60,33,Large
+Buddy,Golden Retriever,Cream,10,56,27,Medium
+Sadie,Poodle (Standard),Brown,10,54,26,Medium
+Jack,Labrador Retriever,Yellow,11,61,30,Large
+Duke,Dachshund,Cream,14,22,8,Small
+Rocky,Chihuahua,Fawn,18,22,2,Small
+Bear,Labrador Retriever,Black,11,58,35,Medium
+Max,Great Dane,Blue,9,77,65,Large
+Cooper,Chihuahua,Fawn,14,17,2,Small
+Lola,Poodle (Standard),Apricot,14,41,30,Medium
+Oliver,French Bulldog,Black,10,29,11,Small
+Duke,Rottweiler,Black and Mahogany,9,61,40,Large
+Jack,German Shepherd,Black and Tan,10,57,32,Medium
+Lucy,Great Dane,Blue,7,72,80,Large
+Tucker,Rottweiler,Black and Mahogany,8,66,56,Large
+Jack,Labrador Retriever,Yellow,10,58,26,Medium
+Charlie,Poodle (Standard),Black,14,55,27,Medium
+Oliver,Chihuahua,Red,14,21,1,Small
+Lola,Dachshund,Cream,14,25,9,Small
+Rocky,Great Dane,Fawn,8,75,69,Large
+Sophie,Chihuahua,Chocolate,14,16,1,Small
+Tucker,Golden Retriever,Light Golden,11,60,33,Large
+Sophie,Chihuahua,Fawn,14,16,1,Small
+Bella,Chihuahua,White,15,21,2,Small
+Rocky,Golden Retriever,Cream,11,59,28,Medium
+Tucker,Labrador Retriever,Yellow,10,60,31,Large
+Buddy,Golden Retriever,Golden,10,58,33,Medium
+Bella,Beagle,Red and White,13,34,9,Small
+Charlie,Great Dane,Black,8,78,84,Large
+Tucker,Chihuahua,Fawn,14,22,1,Small
+Tucker,Great Dane,Fawn,8,78,81,Large
+Bear,German Shepherd,Black,9,60,33,Large
+Maggie,Poodle (Standard),Brown,14,42,24,Medium
+Daisy,French Bulldog,White,10,28,11,Small
+Sophie,German Shepherd,Black,9,61,24,Large
+Sadie,Poodle (Standard),Apricot,10,41,20,Medium
+Tucker,Dachshund,Black and Tan,14,21,13,Small
+Charlie,Great Dane,Blue,7,72,69,Large
+Buddy,Beagle,Red and White,14,33,9,Small
+Maggie,Labrador Retriever,Chocolate,11,59,30,Medium
+Chloe,French Bulldog,Fawn,10,28,10,Small
+Rocky,German Shepherd,Black and Tan,12,55,26,Medium
+Molly,German Shepherd,Black,11,63,35,Large
+Jack,Dachshund,Black and Tan,12,22,10,Small
+Sophie,Labrador Retriever,Yellow,11,55,26,Medium
+Buddy,Poodle (Standard),Apricot,17,43,26,Medium
+Maggie,Poodle (Standard),Brown,10,43,31,Medium
+Bear,Chihuahua,Black,15,17,1,Small
+Max,Chihuahua,Black,13,16,2,Small
+Chloe,German Shepherd,Sable,9,57,25,Medium
+Maggie,German Shepherd,Black and Tan,12,58,25,Medium
+Cooper,French Bulldog,Black,10,29,10,Small
+Chloe,Poodle (Standard),Apricot,13,41,25,Medium
+Bear,Poodle (Standard),Brown,16,41,22,Medium
+Lola,Beagle,Red and White,13,40,9,Medium
+Daisy,Rottweiler,Black and Mahogany,9,61,37,Large
+Bear,Dachshund,Cream,15,26,10,Small
+Molly,Poodle (Standard),Black,12,41,31,Medium
+Daisy,Golden Retriever,Cream,10,55,30,Medium
+Daisy,Beagle,Red and White,12,40,9,Medium
+Sophie,Poodle (Standard),Black,17,49,22,Medium
+Oliver,Labrador Retriever,Chocolate,11,55,28,Medium
+Oliver,Chihuahua,Red,14,21,2,Small
+Jack,German Shepherd,Sable,9,64,30,Large
+Bailey,German Shepherd,Black and Tan,10,56,26,Medium
+Bailey,Rottweiler,Black and Mahogany,8,67,41,Large
+Bear,Dachshund,Cream,14,21,11,Small
+Lucy,Dachshund,Black and Tan,13,23,10,Small
+Max,Beagle,Tricolor,12,34,10,Small
+Lola,Rottweiler,Black and Mahogany,9,66,59,Large
+Max,Great Dane,Fawn,8,74,77,Large
+Rocky,Labrador Retriever,Yellow,10,61,35,Large
+Maggie,Rottweiler,Black and Mahogany,9,64,54,Large
+Lucy,Dachshund,Black and Tan,15,26,9,Small
+Max,Labrador Retriever,Chocolate,10,57,31,Medium
+Bailey,French Bulldog,Fawn,11,32,11,Small
+Daisy,Great Dane,Brindle,7,74,85,Large
+Chloe,French Bulldog,Brindle,10,30,11,Small
+Cooper,Labrador Retriever,Black,10,61,29,Large
+Buddy,Great Dane,Brindle,9,74,80,Large
+Tucker,French Bulldog,Fawn,10,31,9,Small
+Charlie,Golden Retriever,Golden,11,56,30,Medium
+Jack,German Shepherd,Black and Tan,11,56,37,Medium
+Maggie,Labrador Retriever,Yellow,11,57,35,Medium
+Rocky,Beagle,Red and White,13,36,10,Medium
+Tucker,German Shepherd,Sable,11,63,35,Large
+Tucker,Great Dane,Brindle,9,71,54,Large
+Max,Beagle,Lemon,13,35,9,Medium
+Chloe,Beagle,Red and White,12,39,9,Medium
+Jack,French Bulldog,Fawn,11,29,10,Small
+Maggie,Great Dane,Brindle,9,77,65,Large
+Sadie,Poodle (Standard),White,10,45,31,Medium
+Chloe,Golden Retriever,Cream,10,56,30,Medium
+Cooper,French Bulldog,White,11,28,11,Small
+Bella,Beagle,Red and White,13,33,10,Small
+Daisy,Labrador Retriever,Yellow,11,55,35,Medium
+Bailey,Beagle,Tricolor,14,34,9,Small
+Tucker,French Bulldog,White,10,29,9,Small
+Maggie,Golden Retriever,Cream,10,56,33,Medium
+Max,German Shepherd,Sable,10,56,29,Medium
+Bella,Dachshund,Dapple,15,25,10,Small
+Daisy,Chihuahua,Black,17,17,1,Small
+Cooper,Great Dane,Blue,7,73,67,Large
+Sadie,German Shepherd,Sable,9,56,26,Medium
+Rocky,Beagle,Lemon,12,36,9,Medium
+Jack,Rottweiler,Black and Mahogany,8,68,56,Large
+Jack,Golden Retriever,Golden,11,57,28,Medium
+Sophie,Rottweiler,Black and Mahogany,8,68,36,Large
+Lola,Chihuahua,Black,14,15,1,Small
+Bear,Labrador Retriever,Black,11,55,33,Medium
+Jack,Rottweiler,Black and Mahogany,8,63,37,Large
+Max,Dachshund,Black and Tan,15,23,12,Small
+Bailey,Rottweiler,Black and Mahogany,8,66,40,Large
+Bella,German Shepherd,Black,12,57,24,Medium
+Maggie,Golden Retriever,Golden,11,60,26,Large
+Sadie,German Shepherd,Black and Tan,9,60,25,Large
+Bailey,Labrador Retriever,Black,11,60,28,Large
+Cooper,German Shepherd,Sable,12,61,39,Large
+Chloe,Poodle (Standard),Brown,17,54,28,Medium
+Bella,German Shepherd,Sable,11,64,24,Large
+Oliver,Dachshund,Dapple,15,22,7,Small
+Molly,Poodle (Standard),Black,12,52,30,Medium
+Bella,Dachshund,Red,14,20,8,Small
+Sophie,Beagle,Tricolor,13,39,10,Medium
+Bella,Chihuahua,Red,17,16,1,Small
+Oliver,French Bulldog,Black,11,30,9,Small
+Molly,Rottweiler,Black and Mahogany,8,61,36,Large
+Maggie,Beagle,Red and White,13,35,10,Medium
+Oliver,Beagle,Tricolor,13,34,10,Small
+Cooper,Chihuahua,White,15,22,1,Small
+Oliver,Chihuahua,Fawn,16,19,2,Small
+Molly,Golden Retriever,Cream,10,56,27,Medium
+Bear,Golden Retriever,Golden,11,60,31,Large
+Bear,German Shepherd,Sable,12,59,26,Medium
+Chloe,French Bulldog,Brindle,10,31,12,Small
+Charlie,German Shepherd,Sable,11,62,39,Large
+Daisy,Great Dane,Black,8,73,81,Large
+Charlie,Labrador Retriever,Yellow,11,56,27,Medium
+Bella,Rottweiler,Black and Mahogany,9,67,50,Large
+Bailey,Dachshund,Black and Tan,14,22,13,Small
+Duke,Poodle (Standard),Apricot,14,41,31,Medium
+Bailey,Beagle,Lemon,14,34,9,Small
+Bear,Poodle (Standard),White,11,53,21,Medium
+Cooper,Labrador Retriever,Black,11,58,30,Medium
+Cooper,Poodle (Standard),Black,15,38,27,Medium
+Cooper,German Shepherd,Black,12,59,31,Medium
+Lucy,Dachshund,Cream,15,21,13,Small
+Sadie,French Bulldog,Fawn,10,28,9,Small
+Lucy,Labrador Retriever,Black,10,56,29,Medium
+Bailey,Golden Retriever,Cream,11,59,25,Medium
+Bear,Beagle,Tricolor,14,38,10,Medium
+Molly,Beagle,Lemon,14,39,9,Medium
+Cooper,Labrador Retriever,Yellow,10,57,27,Medium
+Daisy,Golden Retriever,Cream,11,55,30,Medium
+Oliver,Dachshund,Black and Tan,15,24,9,Small
+Charlie,Chihuahua,Chocolate,13,18,1,Small
+Bella,Rottweiler,Black and Mahogany,9,62,38,Large
+Cooper,Great Dane,Fawn,9,77,67,Large
+Max,Golden Retriever,Light Golden,11,57,25,Medium
+Bailey,Rottweiler,Black and Mahogany,9,61,35,Large
+Bailey,French Bulldog,Fawn,10,28,12,Small
+Maggie,Labrador Retriever,Black,11,56,29,Medium
+Charlie,Golden Retriever,Light Golden,10,56,33,Medium
+Sadie,German Shepherd,Sable,11,57,25,Medium
+Oliver,Dachshund,Cream,13,21,13,Small
+Sadie,Golden Retriever,Golden,11,55,31,Medium
+Maggie,Dachshund,Dapple,13,20,11,Small
+Bella,Great Dane,Brindle,8,76,55,Large
+Lucy,Dachshund,Red,15,23,7,Small
+Jack,Rottweiler,Black and Mahogany,9,66,45,Large
+Bear,German Shepherd,Black,9,63,32,Large
+Lucy,Poodle (Standard),White,11,44,27,Medium
+Cooper,Labrador Retriever,Chocolate,10,61,25,Large
+Lola,Chihuahua,White,17,20,1,Small
+Jack,Chihuahua,Red,15,18,1,Small
+Chloe,Beagle,Tricolor,13,40,10,Medium
+Sadie,Great Dane,Blue,8,74,83,Large
+Max,Great Dane,Blue,8,71,78,Large
+Buddy,Beagle,Tricolor,13,34,10,Small
+Bailey,French Bulldog,Brindle,10,30,9,Small
+Maggie,Chihuahua,Red,14,15,2,Small
+Daisy,Labrador Retriever,Black,11,61,33,Large
+Oliver,Poodle (Standard),Black,14,40,31,Medium
+Bear,Chihuahua,Red,13,15,2,Small
+Rocky,Labrador Retriever,Chocolate,11,58,32,Medium
+Oliver,Beagle,Red and White,13,38,9,Medium
+Bella,Golden Retriever,Light Golden,10,60,31,Large
+Buddy,Chihuahua,Black,13,18,2,Small
+Oliver,Labrador Retriever,Black,11,55,35,Medium
+Sophie,Great Dane,Blue,7,75,88,Large
+Duke,Dachshund,Dapple,14,23,7,Small
+Rocky,Labrador Retriever,Black,10,55,26,Medium
+Duke,Labrador Retriever,Black,11,57,30,Medium
+Sophie,Rottweiler,Black and Mahogany,8,65,52,Large
+Jack,Great Dane,Blue,8,80,84,Large
+Charlie,Dachshund,Cream,15,25,12,Small
+Sophie,French Bulldog,White,11,29,9,Small
+Daisy,German Shepherd,Black,9,63,32,Large
+Lola,German Shepherd,Sable,9,59,39,Medium
+Maggie,Chihuahua,Black,12,16,1,Small
+Lucy,French Bulldog,Black,11,30,9,Small
+Lucy,Labrador Retriever,Yellow,11,58,28,Medium
+Oliver,Golden Retriever,Light Golden,11,56,26,Medium
+Buddy,Labrador Retriever,Yellow,10,59,27,Medium
+Molly,Beagle,Tricolor,12,35,10,Medium
+Bella,Dachshund,Red,12,25,10,Small
+Daisy,Chihuahua,Black,13,22,2,Small
+Lola,Dachshund,Dapple,15,22,8,Small
+Lucy,Rottweiler,Black and Mahogany,9,65,49,Large
+Lucy,Labrador Retriever,Black,11,57,30,Medium
+Lola,Dachshund,Black and Tan,13,26,7,Small
+Buddy,Beagle,Tricolor,13,34,10,Small
+Sadie,Beagle,Red and White,13,37,9,Medium
+Oliver,Golden Retriever,Cream,11,59,25,Medium
+Charlie,Great Dane,Fawn,8,74,78,Large
+Buddy,Poodle (Standard),Apricot,12,50,22,Medium
+Oliver,Dachshund,Red,12,26,11,Small
+Molly,Chihuahua,Red,13,22,2,Small
+Sadie,French Bulldog,Black,11,30,9,Small
+Bear,Dachshund,Cream,15,24,7,Small
+Chloe,Labrador Retriever,Black,11,56,35,Medium
+Bear,Dachshund,Red,15,20,13,Small
+Jack,Labrador Retriever,Chocolate,10,61,34,Large
+Oliver,Rottweiler,Black and Mahogany,9,65,50,Large
+Oliver,German Shepherd,Black,10,59,30,Medium
+Lola,French Bulldog,Black,11,30,10,Small
+Buddy,Poodle (Standard),Black,12,42,29,Medium
+Sophie,Golden Retriever,Light Golden,10,58,33,Medium
+Lucy,Beagle,Tricolor,14,33,9,Small
+Oliver,Labrador Retriever,Yellow,10,60,30,Large
+Bella,German Shepherd,Sable,9,64,22,Large
+Sadie,Great Dane,Black,9,75,81,Large
+Daisy,German Shepherd,Sable,10,63,38,Large
+Lola,Chihuahua,Red,13,20,1,Small
+Lola,German Shepherd,Black,11,59,22,Medium
+Oliver,Dachshund,Dapple,13,25,10,Small
+Chloe,Labrador Retriever,Chocolate,11,55,32,Medium
+Molly,French Bulldog,Fawn,10,30,12,Small
+Lola,Golden Retriever,Golden,10,57,28,Medium
+Sophie,Poodle (Standard),White,14,40,23,Medium
+Bear,Labrador Retriever,Yellow,10,55,32,Medium
+Duke,Chihuahua,Chocolate,15,21,2,Small
+Lucy,Beagle,Tricolor,12,37,9,Medium
+Bailey,Rottweiler,Black and Mahogany,9,65,37,Large
+Bear,Beagle,Lemon,13,37,9,Medium
+Bailey,Rottweiler,Black and Mahogany,8,68,54,Large
+Bear,Rottweiler,Black and Mahogany,8,68,50,Large
+Chloe,Chihuahua,Red,15,22,1,Small
+Bella,Rottweiler,Black and Mahogany,8,64,54,Large
+Duke,Labrador Retriever,Yellow,11,59,26,Medium
+Oliver,Great Dane,Brindle,9,74,69,Large
+Chloe,French Bulldog,White,11,30,9,Small
+Daisy,Dachshund,Black and Tan,13,26,12,Small
+Sophie,Golden Retriever,Light Golden,10,60,32,Large
+Tucker,German Shepherd,Black,10,55,33,Medium
+Duke,Poodle (Standard),Apricot,15,44,24,Medium
+Bella,Labrador Retriever,Yellow,11,58,32,Medium
+Lola,Labrador Retriever,Chocolate,10,56,34,Medium
+Chloe,Rottweiler,Black and Mahogany,9,61,43,Large
+Max,Chihuahua,Black,15,19,2,Small
+Duke,Labrador Retriever,Yellow,10,59,31,Medium
+Cooper,Beagle,Lemon,13,36,9,Medium
+Lola,Great Dane,Fawn,9,78,56,Large
+Tucker,Golden Retriever,Cream,10,58,32,Medium
+Bailey,Rottweiler,Black and Mahogany,9,66,41,Large
+Bailey,Great Dane,Blue,8,78,57,Large
+Sadie,Rottweiler,Black and Mahogany,8,67,47,Large
+Sophie,Golden Retriever,Golden,11,60,29,Large
+Charlie,Golden Retriever,Cream,11,56,28,Medium
+Tucker,Labrador Retriever,Yellow,10,56,31,Medium
+Maggie,Poodle (Standard),Black,10,52,23,Medium
+Maggie,Dachshund,Cream,12,22,12,Small
+Bella,German Shepherd,Black and Tan,11,59,33,Medium
+Bella,Rottweiler,Black and Mahogany,9,62,41,Large
+Lucy,Golden Retriever,Cream,10,60,25,Large
+Cooper,Chihuahua,White,15,15,2,Small
+Rocky,Great Dane,Brindle,8,76,51,Large
+Charlie,Dachshund,Black and Tan,12,24,10,Small
+Lucy,Dachshund,Cream,15,26,9,Small
+Duke,Great Dane,Brindle,7,72,57,Large
+Rocky,Great Dane,Brindle,8,71,58,Large
+Molly,Golden Retriever,Light Golden,10,59,25,Medium
+Bear,Golden Retriever,Golden,11,60,31,Large
+Molly,Poodle (Standard),Black,13,55,28,Medium
+Bailey,Chihuahua,Black,12,17,2,Small
+Jack,Dachshund,Dapple,14,20,9,Small
+Lola,German Shepherd,Sable,10,58,34,Medium
+Molly,Dachshund,Red,13,22,11,Small
+Maggie,Great Dane,Blue,9,79,84,Large
+Lucy,Poodle (Standard),Black,14,46,27,Medium
+Sadie,Golden Retriever,Light Golden,10,55,31,Medium
+Lucy,Beagle,Tricolor,12,38,10,Medium
+Charlie,Great Dane,Fawn,8,74,63,Large
+Sophie,Rottweiler,Black and Mahogany,9,67,36,Large
+Chloe,Beagle,Red and White,14,40,9,Medium
+Tucker,French Bulldog,White,10,28,10,Small
+Oliver,Golden Retriever,Light Golden,11,60,26,Large
+Bailey,Great Dane,Blue,9,78,78,Large
+Bella,Chihuahua,Black,13,21,2,Small
+Charlie,Dachshund,Dapple,15,20,10,Small
+Oliver,Labrador Retriever,Chocolate,10,55,30,Medium
+Jack,Labrador Retriever,Yellow,11,56,27,Medium
+Daisy,Poodle (Standard),Black,17,45,28,Medium
+Sadie,Chihuahua,Fawn,15,21,2,Small
+Charlie,Labrador Retriever,Black,11,56,34,Medium
+Duke,Chihuahua,Red,19,17,2,Small
+Max,French Bulldog,Black,11,29,11,Small
+Lucy,Chihuahua,Fawn,14,15,2,Small
+Chloe,Rottweiler,Black and Mahogany,8,65,51,Large
+Tucker,Labrador Retriever,Chocolate,11,61,27,Large
+Daisy,Beagle,Tricolor,13,35,10,Medium
+Chloe,Great Dane,Black,9,76,89,Large
+Max,French Bulldog,White,11,31,9,Small
+Duke,Great Dane,Brindle,8,79,87,Large
+Maggie,Poodle (Standard),Apricot,12,45,23,Medium
+Lola,Beagle,Red and White,12,35,10,Medium
+Rocky,Dachshund,Red,14,24,12,Small
+Bella,Dachshund,Dapple,15,26,12,Small
+Chloe,Poodle (Standard),Brown,10,51,30,Medium
+Rocky,Beagle,Red and White,12,38,9,Medium
+Maggie,Great Dane,Black,8,79,72,Large
+Charlie,Dachshund,Black and Tan,14,21,7,Small
+Daisy,Dachshund,Red,15,24,13,Small
+Lucy,Beagle,Tricolor,14,34,9,Small
+Bella,Dachshund,Black and Tan,12,24,9,Small
+Bear,Chihuahua,Fawn,19,19,2,Small
+Molly,Labrador Retriever,Chocolate,10,58,31,Medium
+Duke,Golden Retriever,Golden,11,58,26,Medium
+Rocky,Chihuahua,White,12,16,2,Small
+Oliver,Golden Retriever,Golden,10,57,27,Medium
+Charlie,Poodle (Standard),White,11,38,22,Medium
+Bear,Poodle (Standard),Brown,13,53,20,Medium
+Buddy,Labrador Retriever,Yellow,11,57,35,Medium
+Charlie,Dachshund,Dapple,13,20,11,Small
+Chloe,French Bulldog,Black,10,31,12,Small
+Oliver,Great Dane,Brindle,7,76,76,Large
+Daisy,Poodle (Standard),Brown,13,53,29,Medium
+Jack,German Shepherd,Black,9,58,30,Medium
+Sadie,Great Dane,Brindle,8,75,79,Large
+Bear,Dachshund,Dapple,12,20,12,Small
+Duke,Great Dane,Blue,7,75,60,Large
+Oliver,German Shepherd,Sable,10,61,26,Large
+Charlie,German Shepherd,Black and Tan,10,55,28,Medium
+Sophie,Chihuahua,Fawn,19,16,1,Small
+Bailey,Golden Retriever,Cream,10,59,31,Medium
+Chloe,Golden Retriever,Golden,11,60,27,Large
+Cooper,Beagle,Tricolor,14,36,10,Medium
+Cooper,Poodle (Standard),White,13,39,29,Medium
+Buddy,Poodle (Standard),Brown,14,49,29,Medium
+Bear,Chihuahua,Chocolate,16,22,1,Small
+Bella,German Shepherd,Sable,12,63,39,Large
+Chloe,Rottweiler,Black and Mahogany,9,61,51,Large
+Sophie,German Shepherd,Sable,9,56,25,Medium
+Molly,Poodle (Standard),Brown,10,38,20,Medium
+Bear,Golden Retriever,Cream,10,58,27,Medium
+Oliver,Golden Retriever,Golden,11,56,25,Medium
+Bella,Poodle (Standard),Black,13,47,24,Medium
+Max,French Bulldog,Black,10,29,10,Small
+Rocky,Golden Retriever,Cream,10,57,25,Medium
+Cooper,Great Dane,Blue,8,77,56,Large
+Buddy,Beagle,Red and White,12,37,9,Medium
+Buddy,Poodle (Standard),White,15,54,21,Medium
+Buddy,Beagle,Tricolor,13,36,10,Medium
+Chloe,French Bulldog,Fawn,11,29,10,Small
+Cooper,Labrador Retriever,Black,11,61,27,Large
+Buddy,Beagle,Lemon,13,33,10,Small
+Maggie,French Bulldog,Fawn,10,30,12,Small
+Oliver,Chihuahua,Fawn,17,16,1,Small
+Bella,Poodle (Standard),Black,16,50,25,Medium
+Bear,Labrador Retriever,Yellow,10,56,34,Medium
+Tucker,Beagle,Tricolor,14,34,9,Small
+Charlie,Beagle,Tricolor,13,39,10,Medium
+Duke,Labrador Retriever,Black,10,55,35,Medium
+Chloe,French Bulldog,Brindle,10,28,11,Small
+Duke,Beagle,Tricolor,13,38,10,Medium
+Maggie,Labrador Retriever,Yellow,11,58,25,Medium
+Bear,Chihuahua,Chocolate,19,19,2,Small
+Bear,Poodle (Standard),Brown,11,41,21,Medium
+Rocky,Golden Retriever,Light Golden,11,58,28,Medium
+Bella,Beagle,Tricolor,13,36,10,Medium
+Lucy,Labrador Retriever,Yellow,10,59,28,Medium
+Maggie,Labrador Retriever,Chocolate,10,57,34,Medium
+Max,French Bulldog,White,10,31,10,Small
+Oliver,German Shepherd,Black,10,64,39,Large
+Daisy,Beagle,Red and White,13,33,10,Small
+Lucy,Chihuahua,White,18,21,1,Small
+Charlie,Rottweiler,Black and Mahogany,8,68,52,Large
+Max,Chihuahua,Chocolate,19,22,2,Small
+Bella,Great Dane,Fawn,8,78,76,Large
+Chloe,Chihuahua,Red,18,16,1,Small
+Oliver,Golden Retriever,Golden,10,56,29,Medium
+Bear,Great Dane,Black,9,76,56,Large
+Lucy,Dachshund,Black and Tan,13,23,11,Small
+Chloe,Beagle,Lemon,12,37,9,Medium
+Tucker,Dachshund,Dapple,12,24,7,Small
+Bella,Great Dane,Black,7,72,81,Large
+Bailey,French Bulldog,White,11,30,11,Small
+Buddy,Poodle (Standard),Brown,14,42,28,Medium
+Chloe,Chihuahua,Chocolate,18,16,2,Small
+Daisy,Labrador Retriever,Chocolate,10,56,25,Medium
+Chloe,German Shepherd,Black and Tan,9,58,36,Medium
+Molly,Great Dane,Blue,8,79,72,Large
+Maggie,Beagle,Red and White,13,36,10,Medium
+Jack,Labrador Retriever,Yellow,11,55,26,Medium
+Sophie,French Bulldog,Black,11,30,10,Small
+Buddy,German Shepherd,Black,11,55,31,Medium
+Sadie,Great Dane,Blue,8,74,67,Large
+Daisy,German Shepherd,Black and Tan,9,64,25,Large
+Molly,Dachshund,Cream,15,21,12,Small
+Molly,Rottweiler,Black and Mahogany,9,62,52,Large
+Chloe,Chihuahua,White,17,15,1,Small
+Bailey,Rottweiler,Black and Mahogany,8,66,42,Large
+Bear,French Bulldog,Brindle,11,30,9,Small
+Maggie,Great Dane,Black,8,71,51,Large
+Max,Golden Retriever,Cream,10,57,27,Medium
+Bailey,Chihuahua,Black,13,16,1,Small
+Duke,Beagle,Tricolor,13,36,9,Medium
+Daisy,Labrador Retriever,Yellow,10,57,32,Medium
+Max,Golden Retriever,Golden,11,58,27,Medium
+Lola,Beagle,Red and White,13,37,10,Medium
+Bear,Poodle (Standard),White,11,50,29,Medium
+Jack,Rottweiler,Black and Mahogany,8,61,40,Large
+Lola,French Bulldog,Black,10,30,9,Small
+Bear,Chihuahua,Red,13,15,1,Small
+Daisy,Rottweiler,Black and Mahogany,8,67,41,Large
+Maggie,Golden Retriever,Cream,10,55,30,Medium
+Sadie,Golden Retriever,Golden,10,58,32,Medium
+Charlie,Golden Retriever,Light Golden,10,56,29,Medium
+Rocky,French Bulldog,White,11,32,10,Small
+Maggie,Dachshund,Black and Tan,14,23,7,Small
+Sophie,Golden Retriever,Cream,11,56,25,Medium
+Sadie,Chihuahua,Black,12,19,2,Small
+Bailey,German Shepherd,Black,11,56,32,Medium
+Buddy,Chihuahua,Chocolate,17,20,1,Small
+Lola,Great Dane,Blue,8,73,70,Large
+Molly,Golden Retriever,Cream,10,56,27,Medium
+Duke,French Bulldog,Fawn,11,30,11,Small
+Molly,Labrador Retriever,Chocolate,11,59,27,Medium
+Oliver,Labrador Retriever,Chocolate,10,59,33,Medium
+Max,French Bulldog,Brindle,11,32,10,Small
+Chloe,Beagle,Lemon,14,35,9,Medium
+Buddy,Beagle,Lemon,13,36,10,Medium
+Max,Poodle (Standard),Apricot,17,54,30,Medium
+Rocky,Labrador Retriever,Black,10,55,32,Medium
+Bella,Labrador Retriever,Chocolate,11,56,29,Medium
+Bear,Rottweiler,Black and Mahogany,8,66,35,Large
+Bella,Dachshund,Red,12,22,9,Small
+Molly,French Bulldog,Black,10,30,11,Small
+Lola,German Shepherd,Black,9,63,30,Large
+Rocky,Poodle (Standard),Apricot,17,42,27,Medium
+Oliver,Chihuahua,Chocolate,12,19,1,Small
+Sadie,Beagle,Tricolor,12,35,9,Medium
+Molly,Rottweiler,Black and Mahogany,9,68,55,Large
+Daisy,French Bulldog,White,11,31,12,Small
+Jack,Great Dane,Blue,8,76,77,Large
+Tucker,Rottweiler,Black and Mahogany,9,67,44,Large
+Lucy,Beagle,Tricolor,13,37,9,Medium
+Charlie,Beagle,Lemon,12,35,10,Medium
+Buddy,Golden Retriever,Cream,10,57,32,Medium
+Jack,Chihuahua,White,15,17,1,Small
+Bella,Chihuahua,Red,12,17,1,Small
+Bailey,French Bulldog,Black,11,28,11,Small
+Charlie,Rottweiler,Black and Mahogany,9,65,51,Large
+Buddy,Beagle,Lemon,12,33,9,Small
+Chloe,Poodle (Standard),Apricot,12,51,27,Medium
+Daisy,Dachshund,Dapple,12,20,10,Small
+Max,Rottweiler,Black and Mahogany,9,62,49,Large
+Max,Chihuahua,White,19,15,1,Small
+Sophie,Golden Retriever,Light Golden,11,57,31,Medium
+Cooper,Beagle,Lemon,12,39,9,Medium
+Oliver,Dachshund,Dapple,15,22,7,Small
+Charlie,Rottweiler,Black and Mahogany,9,63,41,Large
+Oliver,Labrador Retriever,Chocolate,11,56,25,Medium
+Duke,German Shepherd,Black and Tan,12,57,36,Medium
+Bella,Rottweiler,Black and Mahogany,9,62,41,Large
+Lola,Chihuahua,White,13,21,1,Small
+Lucy,Rottweiler,Black and Mahogany,8,65,46,Large
+Cooper,Poodle (Standard),Black,15,43,23,Medium
+Duke,Rottweiler,Black and Mahogany,8,61,43,Large
+Sophie,Golden Retriever,Cream,11,56,31,Medium
+Bella,Beagle,Lemon,14,36,10,Medium
+Oliver,Labrador Retriever,Black,11,56,26,Medium
+Bear,Dachshund,Cream,13,25,13,Small
