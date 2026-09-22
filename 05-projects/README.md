@@ -4,12 +4,12 @@ Four projects of increasing scope. Together they cover everything a junior Pytho
 expected to do unsupervised, and they are deliberately shaped like real tickets: a specification
 with acceptance criteria, not a step-by-step recipe.
 
-| # | Project | Skills | Suggested time |
-|---|---|---|---|
-| [1](01-log-analyser/) | **Log analyser CLI** — standard library only | parsing, collections, generators, dataclasses, CLI, pytest | 1–2 days |
-| [2](02-sales-report/) | **Sales report pipeline** — pandas | loading, cleaning, joining, aggregation, charts, reporting | 2–3 days |
-| [3](03-transactions-api/) | **Transactions API** — FastAPI + database | API design, validation, persistence, dependency injection, tests | 3–4 days |
-| [4](04-capstone/) | **Capstone** — end-to-end service | everything above, plus Docker, CI, scheduling, documentation | 4–5 days |
+| # | Project | Skills |
+|---|---|---|
+| [1](01-log-analyser/) | **Log analyser CLI** — standard library only | parsing, collections, generators, dataclasses, CLI, pytest |
+| [2](02-sales-report/) | **Sales report pipeline** — pandas | loading, cleaning, joining, aggregation, charts, reporting |
+| [3](03-transactions-api/) | **Transactions API** — FastAPI + database | API design, validation, persistence, dependency injection, tests |
+| [4](04-capstone/) | **Capstone** — end-to-end service | everything above, plus Docker, CI, scheduling, documentation |
 
 ## How the projects are assessed
 

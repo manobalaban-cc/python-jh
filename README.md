@@ -2,8 +2,8 @@
 
 ## Structure
 
-| Module | Topic | Time |
-|---|---|---|
+| Module | Topic |
+|---|---|
 | [00 — Development environment](00-dev-environment/) | Interpreter, versions, `venv`/`uv`, packaging, project layout, IDE, linter, debugger |
 | [01 — Language core](01-language-core/) | Execution and object model, types, collections, iteration, functions, exceptions |
 | [02 — OOP, data model, stdlib](02-oop-and-stdlib/) | Classes, dunder methods, dataclasses, protocols, typing, generators, decorators, stdlib, pytest |
